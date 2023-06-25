@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Counter-redux-toolkit/static/css/main.8bbee1a3.css",
+    "main.css": "/Counter-redux-toolkit/static/css/main.ef81dfe8.css",
     "main.js": "/Counter-redux-toolkit/static/js/main.c520420c.js",
     "index.html": "/Counter-redux-toolkit/index.html",
-    "main.8bbee1a3.css.map": "/Counter-redux-toolkit/static/css/main.8bbee1a3.css.map",
+    "main.ef81dfe8.css.map": "/Counter-redux-toolkit/static/css/main.ef81dfe8.css.map",
     "main.c520420c.js.map": "/Counter-redux-toolkit/static/js/main.c520420c.js.map"
   },
   "entrypoints": [
-    "static/css/main.8bbee1a3.css",
+    "static/css/main.ef81dfe8.css",
     "static/js/main.c520420c.js"
   ]
 }
